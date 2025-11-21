@@ -2,6 +2,8 @@
 
 <div align="center">
 
+![EcoWaste Logo](public/favicon.ico)
+
 ![EcoWaste Logo](https://img.shields.io/badge/EcoWaste-Sustainable_Future-00D084?style=for-the-badge&logo=recycle&logoColor=white)
 
 **Transforming Urban Waste Management with AI & Gamification**
