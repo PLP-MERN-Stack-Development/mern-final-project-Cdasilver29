@@ -1,7 +1,8 @@
 # 🌱 EcoWaste Management System
 
 <div align="center">
-![EcoWaste Logo](public/logo.png)
+          
+![EcoWaste Logo](eco-waste-frontend/public/logo.png)
 
 ![EcoWaste Logo](https://img.shields.io/badge/EcoWaste-Sustainable_Future-00D084?style=for-the-badge&logo=recycle&logoColor=white)
 
